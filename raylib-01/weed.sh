@@ -1,0 +1,1 @@
+make PLATFORM=PLATFORM_DESKTOP PROJECT_NAME=main OBJS=main.cpp && ./main
